@@ -8,6 +8,7 @@ title: Artist Theme
 email: your-email@domain.com
 description: A small and simple site I made to test out Jekyll. Watch out! I'm going to make a material design theme next!
 baseurl: "https://juandavid8a.github.io/reapers/" # the subpath of your site, e.g. /blog
+sub: "reapers/"
 
 # Where can people find your site?
 url: "https://juandavid8a.github.io/reapers/"
